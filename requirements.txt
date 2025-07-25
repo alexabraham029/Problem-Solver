@@ -6,6 +6,6 @@ wikipedia
 langchain-text-splitters
 pandas
 langchain-groq
-validators==0.28.1
+validators
 numexpr
 streamlit
